@@ -1,3 +1,0 @@
-function gritar(){
-    alert("AHHHHHHHHHHHHHHHHHH");
-}
